@@ -1,3 +1,9 @@
+python-hesiod (0.2.4-2) unstable; urgency=low
+
+  * Remove redundant COPYING file from documentation
+
+ -- Evan Broder <broder@mit.edu>  Thu, 31 Jul 2008 21:44:07 -0700
+
 python-hesiod (0.2.4-1) unstable; urgency=low
 
   * Fix bug in Python 2.4 syntax
