@@ -1,8 +1,14 @@
+python-hesiod (0.2.8-1) unstable; urgency=low
+
+  * Actually set IOErrors correctly
+
+ -- Evan Broder <broder@mit.edu>  Tue, 12 Aug 2008 03:17:16 -0400
+
 python-hesiod (0.2.7-1) unstable; urgency=low
 
   * In passwd and group lookups, convert IDs to strings
 
- -- Evan Broder <evan@remus.mit.edu>  Mon, 11 Aug 2008 17:52:15 -0400
+ -- Evan Broder <broder@mit.edu>  Mon, 11 Aug 2008 17:52:15 -0400
 
 python-hesiod (0.2.6) unstable; urgency=low
 
