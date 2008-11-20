@@ -1,3 +1,9 @@
+python-hesiod (0.2.10-1) unstable; urgency=low
+
+  * Sort filsys entries based on priority
+
+ -- Evan Broder <broder@mit.edu>  Thu, 20 Nov 2008 18:37:20 -0500
+
 python-hesiod (0.2.9.1-1) unstable; urgency=low
 
   * Undo a mistaken test commit
